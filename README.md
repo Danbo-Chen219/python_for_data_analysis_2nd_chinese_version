@@ -41,7 +41,7 @@
 曾经不止一次听别人抱怨，Pandas的知识点分散、零碎、不便于记忆。在细节上，作者这次在新版中摒弃了许多容易造成记忆混乱的用法。比如，用`axis = "columns"`替代`axis = 1`，简写方式破坏了代码的可读性，作者修改了许多类似的编程细节。新版对初学者更为友好了！
         </th>
         <th align=left>
-            <p>在简书上阅读： <a href="https://www.jianshu.com/p/04d180d90a3f">https://www.jianshu.com/p/04d180d90a3f</a></p>
+            <p>reading link： <a href="[https://www.jianshu.com/p/04d180d90a3f">https://www.jianshu.com/p/04d180d90a3f](https://seancheney.gitbook.io/python-for-data-analysis-2nd/di-08-zhang-shu-ju-gui-zheng-ju-he-he-bing-he-zhong-su)</a></p>
             
 下载本书代码，GitHub<a href="https://github.com/wesm/pydata-book/tree/2nd-edition">地址</a>（建议把代码下载下来之后，安装好Anaconda，在目录文件夹中用Jupyter notebook打开）。
 
@@ -100,47 +100,7 @@
 
 结合大语言模型研究热潮，阅读《极速Python》可以更好地理解最新的Python数据分析技术对技术界产生了巨大的影响。Pandas的作者Wes近年来主要开发了Arrow。Arrow提供了一种高效的数据格式和交换方式，使得在不同的计算框架和编程语言之间进行数据交换和分析变得更加容易和高效。通过将Arrow和Pandas结合使用，可以获得高性能的数据处理和分析能力。Arrow提供了快速的数据传输和交换机制，而Pandas提供了丰富的数据操作和分析功能。这使得在大规模数据集上进行数据处理和分析变得更加高效和便捷。进而，分布式机器学习框架Ray在Datasets组件中使用了Arrow，而22年底爆火的ChatGPT就是用Ray训练而成的。
 
+Supplementary Information
 ***
-
-<div align=center>
-<!-- <table style="width:100%"> -->
-<!--     <tr align=center> -->
-<!--         <th>【Python数据分析群】，拉你入群</th> -->
-<!--         <th>AI科技论谈·分享AI新知</th> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--         <td align=center> -->
-<!--             <img src="https://picx.zhimg.com/80/v2-3301f242afabf3c8365b9ecadef3de6d_1440w.png" height="300px">             -->
-<!--         </td> -->
-<!--         <td align=center> -->
-<!--             <img src="https://picx.zhimg.com/80/v2-72d0e4f4b373738b400c30a5757edb90_1440w.jpeg" width="160px"> -->
-<!--         </td> -->
-<!--     </tr>  -->
-<!-- </table> -->
-</div>
-
-
-
-
-<div align=center>
-<table style="width:100%">
-    <tr align=center>
-        <th>【Python数据分析群】，拉你入群</th>
-        <th>用三个月完成了翻译，工作砌码回家码字，手竟然脱皮了 :joy:</th>
-<!--         <th>感谢赞赏 :sparkling_heart:</th> -->
-    </tr>
-    <tr>
-        <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-3301f242afabf3c8365b9ecadef3de6d_1440w.png" height="300px">            
-        </td>
-        <td align=center>
-            <img src="https://upload-images.jianshu.io/upload_images/7178691-260d699e695f8e81.jpg" height="300px">            
-        </td>
-<!--         <td align=center>
-            <img src="https://pic1.zhimg.com/80/v2-c499eb01a64368f08d77776d6f43e26e_1440w.png" width="160px">
-        </td> -->
-    </tr> 
-</table>
-</div>
 
 
