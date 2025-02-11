@@ -41,7 +41,7 @@
 曾经不止一次听别人抱怨，Pandas的知识点分散、零碎、不便于记忆。在细节上，作者这次在新版中摒弃了许多容易造成记忆混乱的用法。比如，用`axis = "columns"`替代`axis = 1`，简写方式破坏了代码的可读性，作者修改了许多类似的编程细节。新版对初学者更为友好了！
         </th>
         <th align=left>
-            <p>reading link： <a href="[https://www.jianshu.com/p/04d180d90a3f">https://www.jianshu.com/p/04d180d90a3f](https://seancheney.gitbook.io/python-for-data-analysis-2nd/di-08-zhang-shu-ju-gui-zheng-ju-he-he-bing-he-zhong-su)</a></p>
+            <p>reading link：https://seancheney.gitbook.io/python-for-data-analysis-2nd/di-08-zhang-shu-ju-gui-zheng-ju-he-he-bing-he-zhong-su
             
 下载本书代码，GitHub<a href="https://github.com/wesm/pydata-book/tree/2nd-edition">地址</a>（建议把代码下载下来之后，安装好Anaconda，在目录文件夹中用Jupyter notebook打开）。
 
